@@ -7,7 +7,7 @@ Plots are available here: ![GitHub star and fork count](plots.md).
 ## Regenerate
 
 Data files are not overridden once fetched. If you wish to re-fetch data for a
-repo. Delete the corresponding file `data/<REPO>.json`.
+repo, delete the corresponding file `data/<REPO>.json`.
 
 ### Prerequisites
 ```
@@ -17,7 +17,8 @@ pip install -r requirements.txt
 ```
 
 The list of repos to fetch data for are defined in `params.py`. Modify it to
-add/remove the repos you want to fetch data and generate plots for. Additionaly, from and two dates (quarters) are defined here.
+add/remove the repos you want to fetch data and generate plots for. Additionaly,
+from and to dates (quarters) are defined here.
 
 ### Steps
 
