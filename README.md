@@ -2,7 +2,7 @@
 
 This repo can fetch data from GitHub APIs stargazers and forks and generate plots.
 
-Plots are available here: ![GitHub star and fork count](plots.md).
+Plots are available here: [GitHub star and fork count](plots.md).
 
 ## Regenerate
 
