@@ -31,6 +31,7 @@ repos_frameworks = [
     'pytorch/serve',
     'triton-inference-server/server',
     'vllm-project/vllm',
+    'ollama/ollama',
 ]
 
 repos_langs = [
@@ -47,6 +48,13 @@ repos_langs = [
     'tensorflow/tensorflow',
     'tinygrad/tinygrad',
     'triton-lang/triton',
+    'modular/mojo',
+    'NVIDIA/cutlass',
+    'HazyResearch/ThunderKittens',
+    'tile-ai/tilelang',
+    'openxla/xla',
+    'apache/tvm',
+    'ROCm/HIP',
 ]
 
 repos_models = [
