@@ -42,6 +42,7 @@ repos_langs = [
     'dotnet/machinelearning',
     'ml-explore/mlx',
     'apache/mxnet',
+    'onnx/onnx',
     'PaddlePaddle/Paddle',
     'plaidml/plaidml',
     'pytorch/pytorch',
@@ -54,6 +55,7 @@ repos_langs = [
     'tile-ai/tilelang',
     'openxla/xla',
     'apache/tvm',
+    'iree-org/iree',
     'ROCm/HIP',
 ]
 
