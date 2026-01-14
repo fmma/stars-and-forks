@@ -4,7 +4,7 @@ from pathlib import Path
 from params import repos, max_quarter
 from utils import datestring_to_quarter, write_json, generate_quarters, inc_quarter, repo_to_file_name
 
-token = Path('.token').read_text()
+token = Path('.token').read_text().strip()
 
 def get_quarterly_counts(repo, endpoint, attribute):
     counts = {}
