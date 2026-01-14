@@ -46,6 +46,7 @@ repos_langs = [
     'PaddlePaddle/Paddle',
     'plaidml/plaidml',
     'pytorch/pytorch',
+    'pytorch/helion',
     'tensorflow/tensorflow',
     'tinygrad/tinygrad',
     'triton-lang/triton',
